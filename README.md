@@ -1,7 +1,9 @@
 # AWS-S3
 
 ✨️Introduction to Amazon S3
-Amazon S3: 📦 Amazon Simple Storage Service (S3) is an object storage service that offers industry-leading scalability, durability, and low-latency performance. S3 is used for storing and retrieving any amount of data at any time.
+
+#Amazon S3: 
+📦 Amazon Simple Storage Service (S3) is an object storage service that offers industry-leading scalability, durability, and low-latency performance. S3 is used for storing and retrieving any amount of data at any time.
 
 🔸Getting Started
 Step 1: Explore Amazon S3 Basics
