@@ -23,7 +23,7 @@ Choose a unique bucket name.
 
 Configure settings such as region and permissions.
 
-## 🔸Real-World Industry Example: Media Storage for Streaming Platform 🎥📤
+# 🔸Real-World Industry Example: Media Storage for Streaming Platform 🎥📤
 Imagine you're building a media streaming platform, and you need a reliable and scalable storage solution.
 
 ## Scenario:
