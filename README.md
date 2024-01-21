@@ -7,7 +7,7 @@
 
 # 🔸Getting Started
 
-## Step 1: Explore Amazon S3 Basics
+## Step 1: Explore Amazon S3 Basics. 
 
 Read the Amazon S3 Documentation.
 
