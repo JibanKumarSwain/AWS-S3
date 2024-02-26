@@ -9,7 +9,7 @@
        
 ## Step 1: Explore Amazon S3 Basics.       
 
-Read the Amazon S3 Documentation.
+Read the Amazon S3 Documentation.    
 
 Understand the core concepts of S3, including buckets, objects, and storage classes.
 
